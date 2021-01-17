@@ -23,3 +23,5 @@ After the Docker Image is build successfully, next step will be to run the docke
 Now you can view the Application Home Page here: http://localhost:8080/
                                  
 To stop the docker image from running just terminate the program by pressing the control(^) + C key.
+
+Ref: https://spring.io/guides/gs/spring-boot-docker/
